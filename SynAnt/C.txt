@@ -1,0 +1,805 @@
+Cabal. Confederacy, conspiracy, conclave, combination, faction, crew, junto, gang, coterie, plot, political intrigue, league. Cadaverous. Bloodless, pallid, pale, wan, ghastly, deathlike, ashy. 
+ANT. Rosy, blushing, sanguine, incarnadine. Cage, v. Imprison, immure, confine, incarcerate. 
+ANT. Liberate, free, dismiss, unbar. 
+Caitiff. Rascal, miscreant, villain, wretch, coward, sneak, traitor, scoundrel, vagabond. 
+ANT. Gentleman, patriot, philanthropist. 
+Cajole. Coax, wheedle, flatter, fawn upon, blandish; deceive, entrap, beguile, inveigle, impose upon. 
+ANT. Scold, chide, warn. Calamitous. Disastrous, unfortunate, unlucky, adverse, untoward, deplorable, ruinous, inauspicious, wretched, distressing, grievous, illtarred, troublous, hapless, illmened. 
+ANT. Fortunate, auspicious, felicitous, propitious, favorable, advantageous. 
+Calamity. Disaster, misfortune, catastrophe, mishap, trial, trouble, affliction, adversity, distress, hardship, ill luck, visitation. 
+ANT. Blessing, boon, advantage, good fortune, benefaction. Calculate. Number, reckon, sum up, count, compute, account, estimate, enumerate, rate; consider, deem, apportion, investigate. 
+ANT. Guess, risk, chance, conjecture, stake. 
+Calculating. Wary, cautious, scheming, crafty, cool, hard, selfish; careful, circumspect, sagacious, farsighted. 
+ANT. Shortsighted, improvident, rash, careless. 
+Calculation. Reckoning, computation; expectation, anticipation, prospect; foresight, forethought, caution, wariness, discretion, prudence, deliberation. ANT. Omission, carelessness, imprudence, indiscretion, inconsideration. 
+Caliber. Diameter, gage, capacity; faculty, scope, talent, ability, gifts, parts, endowment. 
+ANT. Smallness, thinness; imbecility, incapacity, puerility. 
+Call. Cry, bellow, clamor, ejaculate, scream, roar, shout, shriek, bawl, yell, exclaim, vociferate; invite, summon, send for, bid; assemble, convene, muster; elect, ordain, appoint; invoke, appeal to. 
+ANT. Be silent, hush, list, listen, harken, be still; ignore; disperse; disdain, defy. 
+Calm. Composed, peaceful, placid, quiet, still, tranquil, selfpossessed, serene, undisturbed, dispassionate, sedate, collected, imperturbable, unruffled. 
+ANT. Frantic, frenzied, passionate, furious, raging, stormy, violent, boisterous, agitated, excited, fierce, turbulent, icild, heated, wrathful, disturbed. 
+Calumniate. Slander, traduce, defame, vilify, revile, asperse. ANT. Praise, commend, vindicate, laud, honor, eulogise; shield. 
+Calumny. Slander, aspersion, 
+ANT. Vindication, justification; eulogy, panegyric. 
+Camp. Encampment, bivouac. 
+Cancel. Obliterate, scratch out, erase, efface, expunge, cross off ; abolish, abrogate, nullify, annul, revoke, rescind, make void, repeal. 
+ANT. Confirm, enact, perpetuate, approve, enforce, uphold, sustain, maintain, establish, record, write. 
+Candid. Honest, open, straightforward, transparent, unbiased, artless, frank, guileless, ingenuous, naive, sincere, impartial, innocent, unprejudiced, aboveboard, simple, truthful, unsophisticated, fair. 
+ANT. Deceitful, designing, foxy, sharp, shrewd, crafty, artful, sly, tricky, subtle, adroit, cunning, insincere, diplomatic, intriguing, wily. 
+Candidate. Aspirant, solicitant, petitioner, canvasser, claimant, solicitor. 
+ANT. Nonompetitor; resigner, abandoner, abjurer. 
+Canvass. Debate, discuss, dispute, agitate; examine, investigate, scrutinize, sift, study, consider; solicit votes from, apply for. 
+ANT. Admit, pass, misexamine, allow, ignore, disregard. 
+Capability. Capacity, ability, skill, power, competency, efficiency, caliber, force, faculty, scope, brains, talent. 
+ANT. Dulness, inability, inaptitude, difficulty, awkwardness. 
+Capacity. Space, magnitude, volume, dimensions, extent, size, tonnage, caliber; faculty, gift, talent, genius, competency, capability, discernment, clever
+ANT. Restriction, narrowness, contractedness, incapacity; vncompetency, inefficiency, inability. 
+Capital, n. Metropolis; large letter; stock, sum invested; head of a column or pillar; mental, physical, or financial resources. 
+Capital, a. Chief, principal, essential, leading, cardinal ; fatal, forfeiting life ; excellent, prime, firstlass, firstate, consummate, high, important. 
+ANT. Subordinate, inferior, unimportant, minor; defective, mean. 
+Capitulate. Surrender, yield, submit, stipulate. 
+ANT. Resist, contend, struggle. 
+Caprice. Vagary, freak, whim y fancy, crotchet. 
+ANT. Purpose, plan, determination, conviction, seriousness. 
+Capricious. Wayward, fanciful, freakish, whimsical, inconstant, uncertain, fitful, fickle, changeable. 
+ANT. Firm, inflexible, unsicerving, constant, decided, serious. 
+Captious. Carping, hypercritical, censorious; crabbed, snappish, touchy, cross, snarling, acrimonious, contentious; insidious, ensnaring. 
+ANT. Appreciative, commendatory, complimentary, encouraging, flattering, laudatory, approving. 
+Captivate. Charm, enchant, fascinate, enamor, bewitch, please highly, lead captive, win, catch. ANT. Disenchant, disillusionize; disgust. 
+Captivity. Thraldom, confine
+ANT. Freedom, liberty, independence. 
+Capture. Seize, catch, arrest, apprehend, make captive ; prize. ANT. Liberate, free, release; acquit. 
+Care. Anxiety, trouble, solicitude, concern, vigilance, worry, charge, caution, attention, heed, forethought, management, perplexity, watchfulness, wariness, precaution, oversight, prudence. ANT. Indifference, heedlessness, negligence, oversight, remissness, slight, recklessness, disregard, carelessness, inattention. 
+Career. Course, line of achievement, passage, race, flight, procedure, conduct, progress, active life, success. 
+Careful. Thoughtful, provident, considerate, reflective, heedful, diligent, pensive, regardful, contemplative. 
+ANT. Careless, thoughtless, improvident, unthinking, heedless, inconsiderate, rash, wanton, idle, dreamy, trifling. 
+Caress, v. Embrace, fondle, kiss, pet, pamper, coddle, court, flatter. 
+ANT. Vex, tease, affront, annoy, provoke, persecute. 
+Cargo. Freight, load, goods, lading, consignment, merchandise. 
+Caricature. Imitation, mimicry, parody, travesty, burlesque, exaggeration, extravaganza, takeoff, farce, monstrosity. 
+ANT. Portraiture, resemblance, representation, reproduction. 
+Carnage. Massacre, bloodshed, slaughter, havoc, butchery. 
+ANT. Deliverance, ransom, Quarter, redemption. 
+Carnal. Sensual, fleshly, lustful, lascivious ; natural, unregenerate, earthly, temporal. 
+ANT. Spiritual, ethereal, refined, pure, exalted, temperate, selfontrolled. 
+Carnival. Festival, revel, masquerade, rout. 
+ANT. Fast, retirement, Lent, penance, mortification. 
+Carol. Sing, warble, chirp, twitter, chant, whistle, hum; hymn. ANT. Whine, lament, dirge, cry, croak, weep, groan, moan. 
+Carousal. Feast, festival, banquet, revel, debauch, wassail, orgies. 
+ANT. Fast, abstinence, starvation; temperance, moderation; selfenial. 
+Carp. Cavil, find fault, object to, pick flaws, challenge, censure, hypercriticize. 
+ANT. Concede, admit, compliment, approve, applaud, acquiesce, assent. 
+Carpet. Covering for floor; table or board (metaphorical), consideration, consultation. 
+ANT. Shelf (metaphorical), rejection, oblivion, disposal. 
+Carry. Convey, move, transport, lift, bring, bear, transmit, support, sustain, take; impel, urge, push forward ; signify, infer, involve, implicate. 
+ANT. Drop, let go, throw down, fall under, shake off; retard, impede; leave, be separate from. 
+Case. Box; covering, sheathe; state, condition, plight, predicament; instance, example, occurrence ; circumstance, event, contingency; suit, action, process, trial, cause; question, subject of discussion; form, inflection. 
+ANT. Hypothesis, supposition, fancy, theory, conjecture; 
+Cash. Coin, money, specie, currency, capital. 
+ANT. Paper money, greenbacks, bills. 
+Cast. Hurl, throw, pitch, fling, drive, thrust, sling, toss; shed, lay aside; calculate, compute, reckon; found, form; direct, turn; assign, appoint, allot; impart, shed, diffuse, communicate. 
+ANT. Raise, elevate, erect; accept, approve, retain, carry; miscalculate; break, dismember, dissipate. 
+Caste. Grade, rank, order, lineage, dignity, respect. 
+ANT. Abasement, degradation, disrepute, taboo, reproach, ostracism. 
+Castigate. Whip, flagellate, cane. ANT. Reward, encourage, caress, pat. 
+Casual. Accidental, incidental, fortuitous, chance, contingent. 
+ANT. Regular, certain, fixed, ordinary, pciorlir, systematic. 
+Casuistry. Sophistry, fallacy, quibble; refinement. 
+ANT. Reason, common sense, conscience. 
+Catalogue. List, register, index, enrolment, entry, record, roll, inventory, schedule. 
+ANT. Nonegistration, obliteration, oblivion, forgetfulness; nonntry, oversight, omission. 
+Catastrophe. Revolution, disaster, mishap, misfortune, calamity, cataclysm, blow, visitation. ANT. Victor;/, triumph, benefit, ovation, success, felicitation, blessing. 
+Catch. Grasp, seize, clutch, capture, clasp, secure, snatch, take, arrest, ensnare, entrap, grip, lay hold; comprehend, apprehend, understand. 
+ANT. Lose, miss, fail of, let go, give up, release, restore. Categorical. Plain, absolute, distinct, positive, declaratory, affirmative. 
+ANT. Obscure, ambiguous, dubious, hypothetical, contingent, mystical, enigmatical. Category. Class, division, order, rank; universal aspect, primitive relation. 
+ANT. Essence, truth, being, substance, nature. Causality. Causation, potentiality, eventuality, operativeness. 
+ANT. Counteractivity, barrenness, sterility; finality. Cause. Agent, origin, source, creator, spring; reason, power; designer, antecedent, originator, author, producer; condition, principle. 
+ANT. Effect, result, end, production, issue, accomplishment, development, consequence, creation, fruit, event, outcome, outgrowth. 
+Caution. Care, heed, wariness, circumspection, forethought, discretion; warning, admonition, advice, counsel. 
+ANT. Temerity, heedlessness, unguardedness, improvidence, imprudence. 
+Cavalier, a. Arrogant, haughty, overbearing, insolent, disdainful. 
+ANT. Courteous; subservient, servile; civil, polite. Cavil. Carp, object, censure. 
+ANT. Approve, allow, concede. 
+Cavity. Opening, gap, aperture, hole, fissure. 
+ANT. Obstruction, filling. Cease. End, finish, desist, leave off, quit, stop, refrain, abstain, discontinue, pause, terminate. 
+ANT. Begin, commence, con
+Celebrated. Famous, renowned, distinguished, famed, illustrious, eminent, glorious, notable, exalted. 
+ANT. Obscure, unknown, unnotable, mean, insignificant, inconspicuous. 
+Celebration. Solemnization, observance, commemoration, laudation, praise, commendation. 
+ANT. Oblivion, desuetude, nonbservance. 
+Celebrity. Fame, renown, reputation, glory, honor, repute, eminence, distinction; person of note, " lion." 
+ANT. Obscurity, ignominy, disgrace, contempt, meanness; infamy; oblivion. 
+Celerity. Rapidity, speed, haste, velocity, swiftness, fleetness, despatch. 
+ANT. Slowness, tardinets, inertness. 
+Celestial. Heavenly, angelic, supernal, ethereal, atmospheric, immortal, seraphic, divine, godlike. 
+ANT. Earthly, terrestrial; human, mortal; infernal. 
+Censure. Blame, disapproval, reproach, disapprobation, reprimand, condemnation, remonstrance, rebuke. 
+ANT. Praise, approval, eulogy, commendation, encouragement. 
+Center. Middle, midst. 
+ANT. Perimeter, rim, bound, circumference, boundary. 
+Central. Convenient, medial, accessible. 
+ANT. Remote, inaccessible, inconvenient. 
+Centralize. Concentrate, collect, localize. ANT. Disperse, distribute. 
+Ceremonial, n. Ritual, rites, formalities, etiquette. 
+Ceremonial, a. Ritualistic, formal, official, ministerial, pompous, sumptuous, scenic, functional. 
+ANT. Private, unostentatious, undramatic, unimposing, unassuming. 
+Ceremonious. Stately, lofty, courtly; formal, studied, punctilious; prim, precise. 
+ANT. Brush, blunt, supercilious, plain, simple. 
+Certain. Sure, infallible, positive, undeniable, unfailing; assured, fixed, regular, established; true, accurate, unmistakable. 
+ANT. Dubious, irregular, undecided, doubtful, exceptional, casual. 
+Certainty. Assurance, conviction, confidence, positiveness. 
+ANT. Hesitation, doubt, misgiving, conjecture, indecision. 
+Certify. Acknowledge, avow, declare, prove, inform, assure, attest. 
+ANT. Disavow, misinform, disprove. 
+Cessation. Stop, pause, abeyance, suspension, lull, respite. 
+ANT. Incessancy, continuity, continuance. 
+Chafe. Vex, irritate, gall, rub, chagrin, tease, worry, harass, annoy, fret; rage, fume; nettle, exasperate, anger. 
+ANT. Soothe, coax, calm, console, humor; submit, endure, succumb. 
+Chaff. Banter, badinage, nonsense, frivolity; refuse, trash. 
+ANT. Sense, reason, pith, gist, seriousness, substance. 
+Chagrin. Humiliation, shame, mortification, confusion, discomposure, dismay, disappointment. 
+C 50 ] 
+ANT. Delight, glory, exultation, triumph, rejoicing. 
+Challenge, v. Dare, brave, defy; demand, require, claim; object to, take exceptions. 
+ANT. Pass, allow, grant, concede, permit; retract, retreat. 
+Champion. Defender, protector, vindicator; hero, winner, chief, victor, combatant. 
+ANT. Renegade, traitor, deserter, coward; adversary, oppo'nent. 
+Chance. Hazard, casualty, accident, luck, fortune. 
+ANT. Law, sequence, purpose, design, intention, causation, certainty. 
+Change, n. Transformation, variation, transition, conversion, innovation, diversion, novelty, variety, vicissitude, alteration, transmutation. 
+ANT. Fixity, identity, constancy, uniformity, firmness, permanence, persistence, steadiness. 
+Change, v. Alter, transform, vary, turn, veer, shift, qualify, modify, exchange, diversify, convert, metamorphose, substitute. 
+ANT. Continue, endure, stay, hold, keep, retain, abide, remain, persist. 
+Changeless. Stationary, undeviating, immovable, reliable, con sistent. 
+ANT. Fluctuating, vacillating, capricious, variable, plastic. 
+Character. Mark, figure, sign, symbol, emblem, letter; constitution, nature, disposition, turn, cast, bent; temperament, moral qualities, personality, traits, habits; person, individual; repute, reputation. 
+ANT. Anonymousness ; dis
+Characteristic. Attribute, peculiarity, trait, sign, indication, mark, feature, distinction, singularity, property, idiosyncrasy. 
+ANT. "Nondescript, general" ity, miscellany, commonness. Charge, v. Load, freight, burden; intrust; impute, ascribe; accuse, impeach, incriminate, arraign, indict; command, order, require, bid; attack, assault. 
+ANT. Free, acquit, liberate, discharge. 
+Charitable. Benign, bountiful, liberal; lenient, mild, considerate. 
+ANT. Selfish, harsh, exacting, revengeful, churlish, censorious. Charity. Benevolence, liberality, bounty, generosity, philanthropy. 
+ANT. Harshness, ill will, malignity, malevolence. Charlatan. Quack, mountebank, impostor, pretender, humbug, cheat. 
+ANT. Victim, dupe, gull. Charm. Spell, incantation, enchantment; fascination, attraction, allurement; witchery, sorcery, magic, necromancy. 
+ANT. Fear, repulsion, disenchantment, disillusion. Chary. Careful, cautious, wary; frugal, sparing, saving, reluctant. 
+ANT. Liberal, lavish, profuse, extravagant. Chase. Pursue, track, hunt, follow, prosecute ; emboss, enchase. ANT. Flee, shun, elude, evade; abandon, relinquish. Chaste. Pure, spotless, immaculate, modest, virtuous, simple j refined, classic, elegant. 
+ANT. Corrup t, impure, 
+Chasten. Discipline, chastise, 
+ANT. Indulge, pamper, spoil, demoralize. 
+Chattels. Goods, wares, effects, furniture. 
+ANT. Freehold. 
+Cheap. Common, inexpensive, mean, worthless, vile, paltry, lowriced, poor, indifferent. 
+ANT. Rare, costly, expensive, high, precious. Cheat, 11. Fraud, trick, artifice, swindle, deceit, fiction, imposture. 
+ANT. Truth, reality, fact, "honesty, authenticity, certainty, openness, sincerity. Check, v. Restrain, curb, stop, bridle, hinder, impede, inhibit; reprove, chide, reprimand, rebuke. 
+ANT. License, indulge, allow, loose, liberate, abet, instigate. Cheer, n. Gladness, joy, gaiety, mirth, merriment, cheerfulness, happiness, hope, conviviality, plenty, hospitality. 
+ANT. Gloom, dearth, sullenness, niggardliness, unsociableness. 
+Cheerful. Glad, lively, mirthful, animated, jocund, jolly, blithe, buoyant, merry, joyous. 
+ANT. Oloomy, dejected, unhappy, lifeless, dull, depressing, melancholy, joyless, dispiriting. Cherish. Foster, nurture, protect, shelter, treasure, comfort, cheer. 
+ANT. A bandon, afflict, check, discourage. 
+Chief, a. Head, important, excellent, high, principal, consummate. 
+ANT. Subordinate, minor, inferior. 
+Chieftain. Captain, commander, general, leader, chief. 
+ANT. Vassal, minion, adherent, retainer, attendant, follower. 
+Childish. Puerile, weak, infantine; silly, foolish, trivial, trifling. 
+ANT. Manly, strong, wise, sagacious; important, momentous. 
+Chimerical. Visionary, imaginary, unreal, dreamy, fanciful, fabulous. 
+ANT. Real, actual, substantial, veritable. 
+Chivalrous. Knightly, gallant, gentlemanly, heroic, valiant, spirited. 
+ANT. Dastardly, recreant, sneaking. 
+Choice, n. Option, preference, alternative, selection, election, free will. 
+ANT. Necessity, compulsion; refusal; force; fate, predestination. 
+Choice, a. Select, dainty, rare, valuable, cherished, exquisite, precious. 
+ANT. Common, ordinary, despicable, cheap, inferior. 
+Choose. Select, pick out, cull, prefer, elect. 
+ANT. Cast away, reject, decline, refuse, leave, throw aside. 
+Chronicle. Annals, records, register, memorials, archives, history. 
+ANT. Legend, romance, tradition. 
+Cipher. Zero, nothing, nonentity, naught; character, symbol, device, monogram ; secret character, private alphabet; nobody, person of no account. 
+ANT. Infinity ; somebody, celebrity, star, notability, colos
+Circular. Round, annular, spherical, ringhaped. 
+ANT. Linear, direct, straight. 
+Circulate. Move in a circle ; diffuse, spread, disseminate, promulgate, propagate, publish, notify; travel. 
+ANT. Suppress, hush, cease, stagnate; center, monopolize, appropria te. 
+Circumference. Periphery, circuit, boundary, outline, enclooure. 
+ANT. Center, interior. 
+Circumlocution. Verbosity, prolixity, wordiness, diffuseness, periphrasis, redundance, tautology
+ANT. Brevity, compression, condensation, shortness, succinctness, terseness, compactness, conciseness, directness, plainness. 
+Circumscribe. Define, limit, delineate, enclose, confine, restrict. 
+ANT. Distend, dilate, expand, amplify, enlarge, extend. 
+Circumspect. Cautious, wary, heedful, attentive, careful, prudent, watchful, scrupulous, vigilant. 
+ANT. Careless, reckless, incautious, heedless, unwary. 
+Circumstance. Event, situation, occurrence, position, detail, incident, feature, accompaniment, particular, point, item, condition. 
+ANT. Deed, case, transaction, business, affair. 
+Cite. Call, summon, name, select, refer to, quote, mention. 
+ANT. Discard, dismiss, dispute, contradict, reject, challenge, disprove. 
+Citizen. Inhabitant, dweller, townsman, burgher, resident, subject, denizen. 
+Civilization. Culture, cultivation, refinement, amelioration, humanization. 
+ANT. Demoralization, savagery, barbarism, rudeness. 
+Claim, n. Assertion, requisition, demand, call; title, privilege, right, pretension. 
+ANT. Disclaimer, surrender, abjuration, waiver. 
+Claim, v. Demand, ask, require, call for, assert, insist, request, maintain, pretend. 
+ANT. Repudiate, waive, concede, forego, abjure. 
+Clamor, n. Noise, uproar, hubbub, outcry, vociferation, exclamation. 
+ANT. Silence, reticence, acquiescence; repression, stifling. 
+Clandestine. Secret, private, furtive, stealthy, underhand, sly, surreptitious, hidden. 
+ANT. Open, aboveboard, sincere, frank. 
+Class. Company, grade, order, rank, caste, clan, circle, association, club, clique, coterie, set. 
+Classical. Refined, elegant, polished, chaste, pure. 
+ANT. Corrupt, barbarous, uncouth, debased, inelegant. 
+Classification. Grouping, disposition, arrangement, distribution, category, genus, designation, order, species, nature, character; homogeneity. 
+ANT. Individuality, speciality, singularity, distinction, heterogeneity. 
+Clause. Portion, section, passage, paragraph, stipulation, article, chapter, provision. 
+ANT. Document, instrument, writing. 
+Clean, a. Pure, neat, clear, spotless, cleansed, untarnished, upright. 
+ANT. Foul, impure, untidy, hampered, unclean. 
+Cleanse. Purify, wash, clean, disinfect, lave, scour, sponge, scrub, sweep, wipe, rinse, dust, purge. 
+ANT. Defile, pollute, stain, deprave, sully, taint, "befoul, contaminate, corrupt, vitiate. 
+Clear, a. Pure, bright, transparent, free, serene, unclouded, obvious, manifest, pellucid, unadorned, plain, distinct, evident, lucid, intelligible, explicit, straightforward, perspicuous. 
+ANT. Mysterious, unintelligible, vague, opaque, foggy, dim, cloudy, dubious, turbid, ambiguous. 
+Clever. Gifted, expert, capable, apt, bright, ingenious, quickwitted, skilful, adroit, dexterous, intellectual, happy, smart, talented, keen, knowing, intelligent, quick, sharp. 
+ANT. Foolish, slow, stupid, idiotic, thickheaded, witless, bungling, awkward, dull, ignorant, clumsy, senseless. 
+Climax. Acme, top, summit, culmination, height, consummation, zenith, head. 
+ANT. Base, floor, nadir, anticlimax, depth; bathos. 
+Cling. Stick, cleave, fasten, hold, adhere. 
+ANT. Drop, relax, swerve, let go. 
+Close. Packed, condensed, compressed, narrow, restricted, solid; secret, reserved; niggardly. 
+ANT. Ample, wide, open, spacious, patent, public, advertised: openanded, free, liberal. 
+Clownish. Rude, rustic, boorish, awkward, clumsy, bucolic, cloddish. 
+ANT. Polite, affable, civil, urbane. 
+Clumsy. Awkward, inexpert, uncouth, bungling, unskilful, unwieldly. 
+ANT. Neat, skilful, clever, expert, adroit, dexterous, workmanlike. 
+Coalesce. Blend, mix, harmonize, unite, consolidate, combine, adhere. 
+ANT. Disagree, sunder, separate, sever. 
+Coalition. League, union, alliance, confederacy, combination, compact, amalgamation. 
+ANT. Disruption, rebellion, disagreement, sedition, mutiny. 
+Coarse. Of large fibers, crude, rough, gross; indecent, indelicate, unrefined, unpolished, vulgar, common, ordinary. 
+ANT. Fine, choice, delicate, gentle. 
+Coax. Wheedle, flatter, cajole, fawn, allure, seduce, circumvent. 
+ANT. Coerce, impel, drive, intimidate. 
+Coerce. Impel, restrain, inhibit, force, compel, drive, check, intimidate. 
+ANT. Persuade, coax, permit, urge, induce, tempt. 
+Coexistent. Contemporary, concurrent, coincident, simultaneous. 
+ANT. Preceding or succeeding. 
+Cogent. Forcible, powerful, effective, irresistible, convincing, conclusive, persuasive, potent, urgent. 
+ANT. Weak, feeble, poicerless, ineffectual. 
+Cogitate. Meditate, think, reflect, consider, ponder, contemplate. 
+ANT. Dream, idle, wish. 
+Cognizance. Knowledge, observation, notice, recognition, experience. 
+ANT. Ignorance, oversight, neglect. 
+Coherent. Compact, consecutive, close, logical, consistent. 
+ANT. Rambling, loose, discursive, aberrant. 
+Coincidence. Chance, fortuity, harmony, agreement, casualty, concurrence, contemporaneousness. 
+ANT. Design, purpose, asynchronism, anachronism, difference. 
+Cold. Frigid, chilly, frosty, icy, polar, wintry; dull, lifeless, unimpassioned, sluggish, apathetic, indifferent, spiritless. 
+ANT. Hot, warm, ardent, impassioned, fiery, burning, fervid, vehement, passionate. 
+Colleague. Associate, coadjutor, collaborator, helper, companion, partner, assistant, ally, confederate. 
+ANT. Opponent, rival, antagonist, competitor. 
+Collect. Gather, glean, amass, garner, muster, congregate, assemble, convoke, accumulate. 
+ANT. Distribute, dispense, divide, assort, deal. 
+Collision. Clash, shock, impact, concussion, encounter, contact, opposition, conflict. 
+ANT. Divergence; concord, harmony, agreement, coincidence, concert, unity, amity, unison. 
+Colloquy. Dialogue, conversation, talk, discourse, consultation, conference. 
+ANT. Babel, tumult, outcry, clamor; silence, taciturnity. 
+Collusion. Connivance, accompliceship, confederacy. 
+ANT. Frustration, betrayal, exposure. 
+Color. Hue, tint, tinge, shade, complexion; pigment, paint; pretense, speciousness, varnish, 
+ANT. Paleness; transparency, openness. 
+Combat. Conflict, encounter, battle, struggle, contest, contention. 
+ANT. Truce, surrender, mediation. 
+Combination. Association, connection, union; alliance, league; mixture, compound. 
+ANT. Division, disruption, analysis, dissolution. Comfortable. Agreeable, satisfactory, pleasant, convenient, commodious, snug, genial. 
+ANT. Miserable, distressed, forlorn, icretched, cheerless. Comic. Laughable, droll, funny, comical, farcical, ludicrous, ridiculous. 
+ANT. Serious, solemn, grave, tragic, melancholy. Command. Order, direct, bid, instruct, charge, enjoin; rule, govern. 
+ANT. Beg, petition, supplicate, entreat; obey, yield, comply. 
+Commemorate. Celebrate, observe, perpetuate. 
+ANT. Forget, abolish, ignore. Commence. Begin, start, inaugurate, undertake. 
+ANT. Finish, conclude, terminate. 
+Commend. Approve, encourage, applaud, praise. 
+ANT. Blame, condemn, censure, denounce. 
+Comment. Remark, observe, explain, note, expound, interpret, illustrate. 
+ANT. Confuse, obscure, mystify, confound, misrepresent. Commerce. Trade, traffic, business, exchange. 
+ANT. Embargo, inactivity, boycott. 
+Commit. Assign, confide, trust, relegate, entrust, consign. 
+ANT. Omit, let pass, disregard, misconsign. Commodious. Ample, spacious, convenient, comfortable, suitable. 
+ANT. Narrow, cramped, illcontrived. 
+Commodity. Staple, ware, stock, produce, article. 
+ANT. Drug, refuse. Common. Ordinary, habitual, everyday, familiar, frequent ; coarse, vulgar, mean, low. 
+ANT. Exceptional, scarce, refined, rare. 
+Commotion. Excitement, disturbance, agitation, turmoil, tumult, disorder. 
+ANT. Quiet, tranquillity, calm, subsidence, pacification. Communicate. Divulge, impart, disclose, tell, announce, publish. ANT. Secrete, suppress, conceal, withhold, reserve; repress; disavow. 
+Communion. Fellowship, intercourse, participation. 
+ANT. Alienation, exclusion, deprivation, ostracism. Community. Aggregation, society, commonwealth, neighborhood; fraternity, similarity, sympathy, homogeneity. 
+ANT. Hostility, animosity, "heterogeneity . 
+Commute. Exchange, replace, barter, compensate, mitigate, modify, lessen, diminish. 
+ANT. Disallow; charge; increase, enlarge. 
+Compact, n. Agreement, bond, contract, treaty, covenant. 
+ANT. Promise, intention. 
+Compact, a. Dense, close, solid, 
+ANT. Diffuse; sparse, strag
+Companion. Associate, partner, mate, comrade, colleague. 
+ANT. Rival, antagonist, adversary. 
+Companionable. Sociable, pleasant, affable, genial, friendly, agreeable. 
+ANT. Reserved, haughty, distant, cold, solitary, inaccessible. 
+Company. Concourse, gathering, crowd, throng, meeting, multitude, assembly, conclave, conference, congregation, convention, convocation. 
+ANT, Privacy, retirement, solitude, dispersion, loneliness, seclusion. 
+Compare. Collate, estimate, declare similar, liken, parallel. 
+ANT. Contrast, disconnect, pit, distinguish. 
+Compass. Surround, enclose ; effect, achieve, consummate, complete. 
+ANT. Expand, liberate; fail, bungle, mismanage. 
+Compassion. Pity, sympathy, condolence, kindness, clemency, mercy. 
+ANT. Cruelty, antipathy, retaliation, vindictireness. 
+Compatible. Consistent, accordant, congruous, congenial, harmonious. 
+ANT. Hostile, adverse, impossible, destructive, contradictory. 
+Compel. Force, oblige, make necessary, coerce, constrain, necessitate. 
+ANT. Hinder, prevent, delay, block, hamper, encumber. 
+Compensation. Recompense, reward, requital, satisfaction, reparation, amends, indemnification. 
+ANT. Damage, injury, deprivation. 
+Compete. Contend, rival, strive, struggle. 
+ANT. Share, participate. 
+Competence. Ability, capableness; sufficiency, enough, adequacy. 
+ANT. Inability, weakness; poverty, want, indigence. 
+Competition. Rivalry, emulation, contest. 
+ANT. Alliance, coartnership. 
+Complacent. Pleased, satisfied, contented, amiable, pleasant, affable. 
+ANT. Morose, austere, unmannerly. 
+Complain. Murmur, grumble, remonstrate, find fault, repine, lament, grieve, expostulate. 
+ANT. Approve, commend, applaud, congratulate, rejoice. 
+Complement. Fulfilment, totality, counterpart, supply, correlative. 
+ANT. Deficit, abatement, deficiency. 
+Complete, a. Perfect, finished, total, whole, entire; concluded, consummated, ended; adequate, exhaustive, thorough. 
+ANT. Partial, inadequate, imperfect, unfinished. 
+Complex. Confused, involved, mixed, entangled, complicated, composite, manifold, mingled, intricate, obscure. 
+ANT. Direct, obvious, plain, uniform, simple, homogeneous, unraveled. 
+Complexion. Face, feature, appearance, look, hue, character, indication. 
+ANT. Heart, core; reticence, concealment, inexpression. 
+Compliance. Yielding, submission, acquiescence, docility, obedience. 
+ANT. Resistance, repulsion, refusal. 
+Compliment. Flattery, praise, homage, commendation, encomium. 
+ANT. Insult, contempt, discourtesy. 
+Complimentary. Commendatory, flattering, laudatory. 
+ANT. Disparaging, abusive, defamatory, denunciatory 
+Component. Constituent, faetor, element, ingredient. 
+ANT. Compound, entirety, sum, aggregate. 
+Comport. Conduct, behave, demean ; accord, agree, harmonize. ANT. Contrast, militate, differ; misdemean, misconduct. 
+Compose. Compile, construct* constitute; soothe, allay, calm; write. 
+ANT. Analyze, dissect; irritate, excite; criticize. 
+Composition. Formation, making; compound, mixture; arrangement, union, combination; writing, invention; agreement, compromise. 
+ANT. Examination, analysis, criticism; disturbance; segregation. 
+Composure. Tranquillity, calm, repose, selfossession, serenity. ANT. Restlessness, perturbation. 
+Compound, n. Mixture, combination, amalgamation, coalescence, synthesis. 
+ANT. Analysis, dissolution, resolution. 
+Comprehend. Understand, conceive, grasp; include, enclose, embrace. 
+ANT. Misunderstand, misconstrue; except, exclude. 
+Comprehension. Conception, understanding, perception, apprehension, capacity, intellect, reason, mind, intelligence. 
+ANT. Idiocy, nescience, mi*understanding, misconception. 
+Comprehensive. Ample, wide, inclusive, extensive, capacious, compendious. 
+ANT. Narrow, shallow, restricted. 
+Compress. Condense, squeeze, contract, epitomize, abridge. 
+ANT. Expand, diffuse, dilate. 
+Comprise. Include, involve, contain, comprehend, embrace, im
+ANT. Except, "bar out, omit, reject. 
+Compromise. Adjust, arbitrate, settle; engage, pledge, commit; implicate, involve, endanger. 
+ANT. Contend, fight; repudiate, disallow; exonerate, extricate. 
+Compulsion. Force, coercion, constraint, control. 
+ANT. Coaxing, persuasion, inducement. 
+Compunction. Regret, remorse, contrition, penitence. 
+ANT. Assurance, selfomplacency, satisfaction. Compute. Number, calculate, reckon, count; value, estimate, appraise. 
+ANT. Guess, conjecture, surmise. 
+Comrade. Companion, compeer, colleague, associate, partner, friend. 
+ANT. Opponent; stranger, alien. 
+Concatenation. Connection, continuity; series, chain, succession. 
+ANT. Intermission, severing, disconnection. Concave. Hollow, depressed, excavated. 
+ANT. Convex, protuberant, tumular. 
+Conceal. Hide, suppress, secrete, disguise. ANT. Reveal, expose, make 
+Concede. Surrender, admit, resign, yield, allow. 
+ANT. Refuse, claim, contend, contradict, deny, contest. 
+Conceit. Notion, whim, vagary, idea, abstraction, affectation, imagination. 
+ANT. Reality, fact, substance; simplicity, humility. 
+Conceited. Egoistical, opinionated, vain. 
+ANT. Simple, unassuming, unaffected. 
+Conceive. Imagine, apprehend, believe, design, think, understand. 
+ANT. Express, produce, execute. 
+Concentrate. Convene, assemble, congregate, muster, centralize. ANT. Scatter, disperse, dispense, dismiss. 
+Concern. Interest, anxiety, solicitude; affair, matter, institution. 
+ANT. Indifference, carelessness, disregard. 
+Concerning. About, regarding, in relation to, respecting, in respect to, relative to, of. 
+ANT. Disregarding, omitting. 
+Concert. Agreement, harmony, concord, concordance, combination, union, association. 
+ANT. Opposition, disagreement, discord. 
+Concession. Surrender, grant, boon, acknowledgment, admission. 
+ANT. Refusal, denial, toithdrarcal. 
+Conciliate. Win, gain, pacify, reconcile, propitiate. 
+ANT. Alienate, irritate, estrnnge, lose, antagonize. 
+Concise. Succinct, condensed, terse, pregnant, pointed, brief, short, laconic. 
+ANT. Prolix, verbose, diffuse, discursive, rambling, pointless. Conclave. Assembly, synod, cabinet, council, bureau. 
+ANT. Throng, mob, populace, concourse, crowd. Conclude. Close, end, terminate, finish; decide, determine. 
+ANT. Begin, commence, undertake, initiate; prolong, protract, 
+Conclusion. End, termination, finale, finis. 
+ANT. Commencement, beginning, initiation. 
+Conclusive. Final, decisive, positive, definitive, indisputable. 
+ANT. Dubious, vague, uncertain, problematical, theoretical, indeterminate. Concoct. Brew, prepare, compound, mix. 
+ANT. Spoil, upset, overbrew. Concoction. Compound, brew, mixture; scheme, fiction. 
+ANT. Rawness, crudity ; simplicity. 
+Concomitant. Attending, coincident, attendant, synchronous. ANT. Antecedent; diverse, unconnected; subsequent. Concord. Harmony, agreement, friendship, unanimity, accord. ANT. Variance, animosity, discord. 
+Concourse. Assembly, throng, crowd, mob, assemblage, gathering, multitude. 
+ANT. Conclave, cabal, cabinet; desert, solitude. Concrete. Solid, firm, compact; complex, conglomerate ; individualized, specific, particular. ANT. Loose, shifting, yielding, unresisting; abstract, general. 
+ANT. Disagree, dissent, part, differ, disapprove, separate. 
+Concussion. Collision, encounter, crash, impact, percussion. ANT. Interivergence; escape; tangency ; failure, missing. 
+Condemn. Blame, censure, denounce, convict, sentence, reprove, doom. 
+ANT. Acquit, exonerate, absolve, pardon, justify, praise, approve. 
+Condense. Concentrate, abridge, shorten. 
+ANT. Expand, amplify, enlarge. 
+Condescend. Deign, vouchsafe, stoop. 
+ANT. Scorn, spurn, disdain. 
+Condescension. Graciousness, favor. 
+ANT. Arrogance, haughtiness, pride. 
+Condign. Adequate, deserved, merited, suitable, meet, just. 
+ANT. Unmerited, inadequate ; excessive or scant. 
+Condiment. Sauce, seasoning, preserve, pickle, relish, appetizer. 
+Condition. Situation, case, circumstances, plight; rank, estate, grade; proviso, consideration, stipulation. 
+ANT. Concession, adaptation; relation, dependence. 
+Conditionally. Provided, provisionally, hypothetically, contingently. 
+ANT. Absolutely, positively, categorically. 
+Condole. Console, commiserate, sympathize. 
+ANT. Congratulate, rally, exhilarate. 
+Condone. Pardon, overlook, forgive. 
+ANT. Atone, expiate, satisfy. 
+Conduce. Subserve, promote, forward, advance, contribute to, aid. 
+ANT. Defeat; counteract, neutralize. 
+Conduct. Lead, direct, guide, convoy, escort; command, govern; manage, regulate; rule, superintend. 
+ANT. Mislead; mismanage; follow. 
+Confection. Candy, cake, condiment, concoction, sweetmeat. 
+Confederacy, Confederation. Alliance, league, treaty, union, coalition, federation, compact. 
+ANT. Secession, disruption, disunion. 
+Conference. Discourse, conversation, talk; interview, colloquy, parley, consultation; convention, convocation, meeting. 
+ANT. Silence; monologue; dispersion. 
+Confess. Acknowledge, admit, disclose, own, allow, grant, concede, avow. 
+ANT. Deny, conceal, repudiate, disavow, hide, dissemble. 
+Confession. Admission, avowal, acknowledgment ; creed, doctrines, tenets, catechism, subscription. 
+ANT. Heresy, apostasy, protest, refutation, renunciation, abjuration. 
+Confide. Trust, rely, lean, hope, depend, believe, put confidence in. 
+ANT. Doubt, mistrust, disbelieve, disprove, despair of. 
+Confident. Assured, sure, positive, certain; bold, presumptuous, impudent, sanguine. 
+ANT. Dubious, doubtful, undecided, vacillating. 
+Confidential. Intimate, secret, private; trusty, faithful. 
+ANT. Public, patent, open; treacherous, insidious, traitorous. 
+Configuration. Outline, shape, form, contour. 
+ANT. Shapelessness, indeterminateness; distortion, deformity. 
+Confine, v. Limit, bound, imprison, restrict, circumscribe, enclose. 
+ANT. Widen, expand, liberate, unfasten, loosen, extend, dilate. 
+Confirm. Sanction, uphold, assure, establish, strengthen, substantiate, settle, corroborate. 
+ANT. Shatter, weaken, upset, annul, abrogate, cancel, destroy, shake. 
+Confiscate. Forfeit, seize, escheat, condemn, sequestrate. 
+ANT. Release, restore, refund. 
+Conflagration. Fire, arson, ignition, incendiarism, combustion. 
+ANT. Extinction, quenching; smoldering. 
+Conflict. Contest, battle, struggle, encounter; clashing, interference, disagreement, discord. ANT. Amity, reconciliation, pacification, arbitration. 
+Conform. Agree, consent, harmonize, comply, correspond, comport. 
+ANT. Dissent, disagree; antagonize, secede; vary, differ. 
+Confound. Confuse, perplex, bewilder, mystify; surprise, astonish, astound, startle; destroy, ruin, overwhelm; disconcert, abash, shame. 
+ANT. Clear, set right, arrange, enlighten; save, protect; calm, console, soothe, restore. 
+Confront. Oppose, threaten, encounter, challenge, face, intimidate. 
+ANT. Encourage, abet, countenance. 
+Confuse. Mingle, confound; derange, disturb, perplex, embarrass, obscure, mortify. 
+ANT. Arrange; relieve, assist, allay; calm, restore. Congeal. Freeze, convert to ice, benumb. 
+ANT. Melt, thaw, dissolve. Congenial. Kindred, similar, sympathetic, suited, natural, proper, agreeable. 
+ANT. Disagreeable, abhorrent, unnatural, alien, dissimilar, unxuited, unsympathetic. Congenital. Coeval, connatural, innate, inherent, ingenerate. 
+ANT. Unnatural, assumed, extraneous, acquired, artificial, adventitious. 
+Congeries, Congestion. Conglomeration, aggregation, accumulation, plethora, repletion. 
+ANT. Dissipation, diffusion, clearance, dispersion. Congratulate. Felicitate, compliment, rejoice with. 
+ANT. Console, condole with, commiserate. 
+Congregate. Assemble, collect, meet, convene, gather, throng. ANT. Disperse, disappear, separate, part, scatter. Congregation. Assembly, meeting, audience, conference. 
+ANT. Dispersion, dismissal. 
+Congress. Parliament, conclave, cabinet, council, assembly, legislature, synod, convention, conference. 
+ANT. Cabal, sedition, uprising, mob; intrigue. Congruous. Accordant, agreeing, harmonious, coherent, suitable, consistent, proper, appropriate. 
+ANT. Discordant, heterogeneous, inharmonious, improper, unsuitable. 
+Conjecture, n. Supposition, surmise, guess, hypothesis, theory, notion, divination. ANT. Calculation, inference, 
+Conjuncture. Combination, concurrence; emergency, crisis, exigency, juncture. 
+ANT. Provision, preparation, arrangement. 
+Connection. Conjunction, combination, union, association, dependence. 
+ANT. Independence, disjunotion, dissociation, dissolution. 
+Conquer. Overcome, subjugate, master, vanquish, subdue, rout, defeat, overpower, overthrow, prevail over, reduce, win, surmount, worst, checkmate, beat, crush, down, discomfit. 
+ANT. Surrender, capitulate, cede, forfeit, fly, yield, retreat, withdraw, retire, submit, succumb, fall, lose, resign, fail. 
+Conquest. Victory, subjugation, triumph. 
+ANT. Defeat, failure, surrender, submission. 
+Conscience. Moral sense, intuition, integrity, principle. 
+ANT. Irresponsibility, laxity, undutifulness, unscrupulousness. 
+Conscientious. Scrupulous, exact, upright, highrincipled, honest, honorable, equitable, incorruptible, fair, faithful. 
+ANT. Lax, unprincipled, unscrupulous, reprobate, dishonorable, faithless. 
+Conscious. Sensible, cognizant, aware, intelligent, advised, apprised, assured, sure, certain, informed; thinking, reflecting, rational, intellectual. 
+ANT. Insensible, unaware, ignorant, dead, cold, deaf; irrational, thoughtless. 
+Conscription. Drafting, impressment. 
+ANT. Volunteering, enlistment. 
+Consecrate. Dedicate, ordain ; sanctify, hallow. 
+ANT. Desecrate, defile. 
+Consecutive. Sequent, continuous, orderly, following. 
+ANT. Disordered, rambling, discursive, illogical. 
+Consent. Assent, approve, agree, yield, comply, acquiesce. 
+ANT. Refuse, resist, decline, dissent. 
+Consequence. Result, issue, sequel, effect, outgrowth, event, end, upshot; importance, dignity, moment. 
+ANT. Cause, occasion, origin; axiom, postulate, premise, antecedence; insignificance, paltriness. 
+Consequential. Following, resulting, coherent, cogent, connected ; pompous, selfonceited, arrogant, vainglorious. 
+ANT. Incoherent, illogical; affable, accessible, humble, considerate. 
+Conservation. Protection, perpetuation, preservation, maintenance. 
+ANT. Neglect, exposure, destruction, abolition. 
+Conservative. Stationary, traditional, opposed to change. 
+ANT. Radical, progressive, changeable, transitional, modifiable, innovating. 
+Consider. Think, ponder, meditate, reflect, investigate, weigh, deliberate, observe, attend, regard. 
+ANT. Guess, conjecture, ignore, chance, hazard. 
+Considerate. Kindly, thoughtful, reflective, careful, prudent, deliberate, serious, charitable, forbearing, cautious. 
+ANT. Rash, careless, imprudent, thoughtless, rude, selfish, overbearing, injudicious. 
+Consignment. Custody, com
+ANT. Miscommitment. 
+Consistency. Density, solidity, compactness, coherence; agreement, congruity, correspondence, uniformity, harmony, invariableness. 
+ANT. Tenuity, subtility, volatility; incoherence, incongruity, contrariety, contradiction. 
+Console. Comfort, condole with, sympathize, encourage, soothe, assuage, solace. 
+ANT. Distress, grieve, disturb, annoy, sadden, trouble, wound, hurt. 
+Consolidate. Solidify, harden, condense, compress, compact; thicken, strengthen, solder, cement, fuse; conjoin, combine. 
+ANT. Dissolve, melt, vaporize, iceaken, dissipate, sublimate, pulverize; dissect, disjoin. 
+Conspicuous. Visible, apparent, discernible, plain, clear, perceptible, noticeable; eminent, distinguished, prominent, famous, noted, manifest. 
+ANT. Invisible, microscopic, hidden, imperceptible, unseen; ordinary, mediocre, commonplace. 
+Conspiracy. Intrigue, treason, cabal, plot, machination, combination; sedition. 
+ANT. Legislation, congress, parliament, synod. 
+Constant. Fixed, immutable, invariable, unchanging, permanent, perpetual; resolute, firm, steady; persevering, assiduous; incessant, unbroken, continuous; faithful, true, loyal, devoted. 
+ANT. Irregular, exceptional, casual, incidental, fickle, faithless, broken, treacherous, untrustworthy, false. 
+Consternation. Amazement, ter
+ANT. Fearlessness, boldness, composure, presence of mind. 
+Constituent. Elector, patron, voter, supporter, sender; ingredient, component, element. 
+ANT. Representative, nominee; constitution, system, compound, whole. 
+Constitution. Organization, formation ; quality, character, temperament, peculiarity, characteristic; charter, law. 
+ANT. Conspiracy, rebellion, tyranny, anarchy, despotism, destruction, disorganization; disposition, mood, frame of mind, temper. 
+Construct. Build, erect, invent, form, shape, combine. 
+ANT. Demolish, overthrow, destroy, derange. 
+Construction. Building, erection, composition, fabrication; structure, formation, form, figure; explanation, version, rendering, interpretation. 
+ANT. Dislocation, dismemberment, dissolution; misunderstanding, misconception. 
+Consult. Deliberate, take counsel, confer, advise with, canvass, question, consider, regard. ANT. Dictate, counteract, contradict. 
+Consume. Eat up, devour; destroy, lavish, dissipate, waste, spend. 
+ANT. Discard, reject, throw aside; preserve, replenish, supply, provide. 
+Consummate, a. Perfect, excellent, supreme, finished, complete. 
+ANT. Common, faulty, defective, ordinary/, mediocre. 
+Consummation. Achievement, attainment, completion, termination, accomplishment, fulfil
+ANT. Beginning, attempt, inception, initiation, source, origin. 
+Consumption. Expenditure, use, waste, extinction, destruction. 
+ANT. Development, increase, growth, enlargement, augmentation. 
+Contact. Touch, junction, contiguity, closeness, union. 
+ANT. Adjacence, proximity; separation, distance, isolation. Contagion. Infection; contamination, taint, pestilence, corruption. 
+ANT. Prevention; antisepsis, disinfection. 
+Contain. Include, embody, comprehend, comprise, embrace; restrain, hold. 
+ANT. Omit, exclude, drop, discharge; yield, give way. Contaminate. Taint, defile, corrupt, sully. 
+ANT. Cleanse, purify. Contemn. Despise, scorn, disdain, slight. 
+ANT. Venerate, respect. Contemplate. Meditate, study, ponder, survey, reflect; intend, design. 
+ANT. Overlook, waive, abandon; execute, complete, do. Contemptible. Despicable, abject, base, worthless, mean, low. ANT. Respectable, venerable; worthy, estimable, important, grave. 
+Contend. Strive, fight, struggle, combat; debate, argue, dispute; affirm, assert, maintain, claim. ANT. Concede, allow, surrender. 
+Content. Satisfied, pleased, easy, willing, resigned, gratified. 
+ANT. Reluctant, unwilling, unsatisfied, rebellious, discontent. 
+Contention. Strife, dissension, quarrel, rupture, dispute, debate, controversy, altercation. 
+ANT. Peace, amity, harmony, concord, reconciliation. Contingent, a. Casual, happening, fortuitous, dependent, incidental, provisional, uncertain. 
+ANT. Independent, absolute, positive, uncontrolled, uninfluenced, unaffected. Continual. Incessant, ceaseless, invariable, perpetual, constant, uninterrupted, unbroken, unremitting, continuous. 
+ANT. Exceptional, irregular, casual, contingent, intermittent, interrupted, suspended. Continually. Constantly, perpetually, ever, always, repeatedly, frequently, continuously. 
+ANT. Occasionally, rarely, sometimes. 
+Continue. Remain, endure, persist; abide, stay, tarry; persevere, be constant or steadfast. 
+ANT. Stop, cease, fail, pause. Contract, n. Compact, stipulation, agreement, arrangement, bargain, covenant, pact, obligation, pledge, engagement, bond. 
+ANT. Promise, parole, assuranoe, understanding, assumption. 
+Contract, v. Narrow, abbreviate, abridge, lessen, reduce, compress; shrivel, shrink; agree, stipulate, bargain. 
+ANT. Expand, amplify, dilate; reverse, cancel, abandon. Contradict. Deny, gainsay, dispute, impugn, controvert; oppose, counteract, annul, thwart, abrogate. 
+ANT. Maintain, argue, confirm, state, affirm, endorse. Contrary. Opposite, opposed, adverse, counter; conflicting, contradictory, antagonistic, repug
+ANT. Compatible, agreeing, kindred, compliant, submissive; consistent. 
+Contrast, v. Differentiate, discriminate, oppose, compare. 
+ANT. Resemble, be like or similar, liken, harmonize. 
+Contribute. Add, give, coSperate, assist, subscribe, supply. ANT. Refuse, icithhold, deny. 
+Contribution. Donation, offering, gift, subscription, subsidy, aid, assistance. 
+ANT. Withholding, retention, reservation. 
+Contrive. Plan, design, devise, invent, project, form, frame, scheme, plot, consider; manage, make out; concert, adjust. 
+ANT. Bit, chance, venture, bungle, hazard; mismanage, miscontrive. 
+Control, v. Direct, manage, rule, command, sway, superintend; hinder, repress, restrain, curb, check. 
+ANT. License, free; neglect, abandon; mismanage, misconduct. 
+Controversy. Dispute, altercation, contention, disagreement. ANT. Agreement, unanimity, coincidence. 
+Contumacy. Obstinacy, stubbornness, perverseness, pertinacity, obduracy; disobedience, insolence. 
+ANT. Docility, tractableness, flattering, fawning, servility. 
+Contumely. Obloquy, reproach, opprobrium, insolence, abuse, contempt, scorn, disdain, arrogance. 
+Convene. Assemble, meet, congregate, summon, master, collect. 
+ANT. Dismiss, disperse, disband, dissipate. 
+Convenient. Suitable, fit, appropriate, proper, adapted; advantageous, commodious, comfortable, useful, serviceable. 
+ANT. Inconvenient, useless, awkicard, superfluous; inopportune. 
+Convention. Assemblage, conference, meeting, concourse, session, synod, congress, convocation; treaty, compact. 
+ANT. Recess, dissolution, prorogation; dispersion, scattering; promise, understanding, parole. 
+Conventional. Usual, customary, ordinary, habitual, regular, wonted, prevalent, social, everyday; stipulated. 
+ANT. Unusual, erratic, extraordinary; legal, compulsory. 
+Conversant. Familiar, skilled, acquainted, proficient, versed. ANT. Strange, ignorant, unversed, unlearned. 
+Conversation. Converse, communion, intercourse, parley, talk, chat, conference, communication, discourse, colloquy, dialogue. 
+ANT. Speech, oration, harangue, soliloquy, apostrophe, monologue, silenoe, taciturnity. 
+Converse, a. Opposite, reverse, contrary, counter, contradictory. 
+ANT. Identical, one, same, indistinguishable; direct, primary. 
+Conversion. Alteration, transmutation, change, transformation. 
+ANT. Permanence, identity, persistence, conservation. 
+Convertible. Equivalent, interchangeable, identical ; reversible. 
+ANT. Variant, contrary, incommensurate. 
+Convey. Take, transfer, move, change, carry, shift, transmit, transport, remove, consign, relegate. 
+ANT. Retain, preserve, hold, cling to, possess. Conviction. Belief, assurance, persuasion ; confutation, refutation; proof, detection. 
+ANT. Doubt, disbelief, misgiving; vindication, justifies tion. 
+Convince. Persuade, satisfy, enlighten, indoctrinate, inoculate. 
+ANT. Mislead, mystify, perplex, puzzle, unsettle, upset; turn, convert. 
+Convivial. Social, festive, hoapitable, jovial, jolly, companionable, gay. 
+Convocation. Convention, congress, assemblage, council, synod. 
+ANT. Dispersion, disruption, dismission, dismissal. Convolution. Coil, involution, spiral, twist, contortion. 
+ANT. Unfolding, evolution, unraveling, explication. Convoy. Escort, guard, attendance, protection. 
+ANT. Capture, betrayal, on~ set, onslaught, holdp. Convulse. Disturb, shake, agitate. 
+ANT. Calm, compose, soothe, assuage. 
+Cool. Somewhat cold, chilling, frigid, freezing; unimpassioned, composed, collected, unruffled, selfossessed, sedate, placid, quiet; indifferent, unconcerned, apathetic. 
+ANT. Hot, uxirm, burning, heated, excitable, ardent, eager. 
+Cooperate. Assist, abet, help, conspire, concur, colabor. 
+ANT. Oppose, thicart, rival, counteract, conflict, hinder, defeat, frustrate. 
+Coordinate. Equal, equivalent, proportionate, commensurate, tantamount, equipollent. 
+ANT. Subordinate; disparate, extraneous; inferior, superior, 
+Copy. Portraiture, facsimile, duplicate, imitation, likeness, image, transcript, counterfeit. 
+ANT. Model, original, pattern, example, prototype, archetype, exemplar. 
+Cordial. Earnest, warm, hearty, ardent, affectionate, sincere, invigorating, refreshing, pleasing, grateful. 
+ANT. Cool, formal, ceremonious, distant, reserved, disinclined. 
+Corner. Angle, bend, crotch, knee; nook, recess, niche, retreat. 
+ANT. Abutment, protrusion, prominence, convexity, projection. 
+Corollary. Inference, conclusion, deduction, consequence. ANT. Problem, proposition. 
+Corporal, Corporeal. Fleshly, bodily, material, physical. 
+ANT. Spiritual, mental, intellectual, moral, ethereal, immaterial. 
+Corps. Body of troops, division of army, squadron, band, company. 
+ANT. Aggregate, army, host, mass, force, organization. 
+Corpse. Remains, dead body, cadaver, carcass, dust. 
+ANT. Soul, spirit, individual, personality, mentality. 
+Corpulent. Fat, fleshy, plump, obese, portly, round, stout. ANT. Lean, thin, attenu
+Correct. True, exact, accurate, proper, faultless, right. 
+ANT. False, untrue, wrong, inexact, inaccurate, fallacious, defective. 
+Corrective. Regulative, preventive, alterative, preservative, rectifying, modifying, improving, reformatory. 
+ANT. Confirmative, stimulative, intensltive, provocative, conducive. 
+Correlation. Interrelation, correspondence, apposition, interdependence, mutuality, reciprocation, interchange, reciprocity. ANT. Contradiction, independence, opposition, inconsistency, incongruity. 
+Correspond. Agree, suit, match, fit, tally, harmonize, answer, correlate, stand counter; communicate, write. 
+ANT. Vary, disagree, clash, jar; ignore, disregard, neglect. 
+Correspondence. Adaptation, agreement, congruity; writing, letter, despatches, communication. 
+ANT. Conversation; withdraioal, nonntercourse; incongruity, discord, disagreement. 
+Corroborate. Strengthen, establish, sustain, support, confirm. ANT. Weaken, confute, rebut, invalidate, shake, enfeeble, overthrow. 
+Corrode. Consume, eat away, waste, impair, rust, canker, wear, crumble. 
+ANT. Renew, restore. 
+Corrupt, v. Defile, pollute, infect, taint, vitiate, demoralize, contaminate, debase, spoil, deteriorate. 
+ANT. Cleanse, purify, better, correct, ameliorate. 
+Corruption. Decay, decomposi
+Cost. Price, worth, expenditure, expense, charge, disbursement, outlay; preciousness, richness, splendor; loss, damage, pain. 
+Costume. Dress, livery, robes, uniform. 
+ANT. Disguise, incognito; nudity, nakedness. 
+Council. Cabinet, bureau, chamber, conclave, synod, convocation, meeting, conference, parliament, consultation, convention. 
+ANT. Cabal, league, conspiracy; multitude, mob. 
+Counsel. Advice, consultation, opinion, suggestion, recommendation, instruction, caution, admonition ; deliberation, forethought; plan, design, scheme; purpose; lawyer, barrister, attorney. 
+Count. Compute, reckon, add, tell, estimate, number, enumerate, sum, calculate. 
+ANT. Guess, conjecture, surmise, think, fancy. 
+Countenance, v. Approve, support, sanction, help, aid, abet, encourage, patronize, befriend, assist, favor. 
+ANT. Oppose, confront, discourage, browbeat, face, compare, disparage. 
+Counter. Contrary, opposed, opposite, against. 
+ANT. Accordant toith, coincident, consonant. 
+Counteract. Oppose, foil, baffle, thwart, hinder, rival, resist, defeat, cross, frustrate, neutralize. 
+ANT. Aid, cooperate, subserve, promote, advance, assist. 
+Counterfeit, n. Forgery, fraudu
+ANT. Exposure, detection) verity, fact, truth, reality. 
+Countermand. Abrogate, annul, revoke, rescind, recall, make void. 
+ANT. Order, command, bid, charge, enjoin, direct, instruct. 
+Counterpart. Duplicate, copy; correlative, complement, supplement, obverse; match, mate, tally, twin. 
+ANT. Antithesis, contradiction, contrast. 
+Countervail. Balance, compensate, make up, counterbalance, offset. 
+ANT. Overthrow, unbalance, weigh dou>n. 
+Countryman. Rustic, agriculturist, farmer, swain, yeoman, laborer, peasant, husbandman; clown, boor. 
+ANT. Citizen, townsman; alien. 
+Couple, v. Link, unite, connect, join, clasp, tie, yoke, buckle, pair, splice, button; marry, wed. 
+ANT. Loose, part, separate, detach, isolate, unclasp; divorce. 
+Courage. Bravery, valor, fearlessness, spirit, heroism, fortitude, hardihood, boldness, daring, mettle, pluck, resolution, intrepidity. 
+ANT. Cowardice, timidity, fear, dread, terror, dismay, consternation. 
+Course. Route, way, road, track, race; direction, bearing, progress, process; career; succession, order, regularity; deportment, conduct; series, system. 
+ANT. Deviation; disorder, discursion ; hindrance, error. 
+Court, v. Woo, flatter, seek, invite, solicit. 
+ANT. Avoid, shun, repudiate, repel, antagonize. 
+Courtesy. Politeness, affability, urbanity, civility, complaisance. ANT. Rudeness, incivility, churlishness, ungraciousness. 
+Courtly. Polished, elegant, JXH. lite, ceremonious, formal, respectful. 
+ANT. Undignified, unrefined, coarse, awkward, boorish, plebeian. 
+Covenant. Agreement, stipulation, bond, compact, contract, bargain, arrangement, concordant, pact, treaty. 
+ANT. Promise, understanding, assurance, parole. 
+Cover, v. Hide, conceal, overspread, overlay, secrete, cloak, veil, screen, mask, shroud, disguise; invest, clothe, wrap; protect, shelter, shield, guard, defend; comprehend, comprise, embrace; balance, compensate, countervail. 
+ANT. Expose, reveal, produce, exhibit; betray, divulge; omit, exclude. 
+Covet. Desire, long for, wish for, aim after, aspire to. 
+ANT. Dislike, despise; undervalue, 
+Covetous. Eager, avaricious, desirous, greedy, grasping, acquisitive, rapacious. 
+ANT. Liberal, unselfish, generous, bountiful. 
+Coward. Craven, recreant, dastard. 
+ANT. Hero, champion; daredevil, desperado. 
+Coy. Bashful, shy, modest, reserved, retreating, shrinking. 
+ANT. Bold, forward, impertinent, pert, brazen, flippant. 
+Crack. Split, break, chop, rend, cleave, snap ; craze, madden. 
+ANT. Mend, unite, repair; restore, heal. 
+Craft. Skill, ability, power, talent, dexterity, aptitude, tact; artifice, shrewdness, guile, deception, cunning, deceit; ai% trade, employment, vocation, calling; vessel. 
+ANT. Inaptitude, tactlessness; fairness, openness, candor, sincerity, frankness, ingenuousness, straightforward' ness. 
+Cramp. Restrain, hinder, check, confine, hamper, clog, fetter, cripple. 
+ANT. Free, liberate, loose, expand, ease, relieve, extricate. 
+Crash. Jar, uproar, clash, rending, noise, clang, resonance. 
+ANT. Murmur, whisper; silence. 
+Crassitude. Crossness, thickness, density, corpulence, obesity. 
+ANT. Tenuity, agility, oo tivity; spareness, slightness. 
+Crave. Intreat, beg, beseech, implore, supplicate, desire, long for, hunger for, yearn. 
+ANT. Demand, insist, require. 
+Crazy. Shattered, broken, tottering; distracted, mad, lunatic, insane, delirious, cracked, demented, deranged. 
+ANT. Sound, robust, vigorous, sane, whole. 
+Create. Form, produce, make, originate, cause, occasion, appoint, constitute; beget, engender, generate; imagine, compose, fashion, design. 
+ANT. Destroy, demolish, annihilate. 
+Creature. Created being, being, animal, man, person ; dependent, vassal, parasite; wretch, miscreant. 
+ANT. Chimera, ghost, hallucination, fantasy, phantom, conceit, crotchet. 
+Credence. Belief, trust, faith, acceptance, confidence, reliance. ANT. Denial, distrust, disbelief, doubt, skepticism. 
+Credentials. Diploma, missive, title, warrant, vouchers, certificates, testimonials. 
+Credible. Probable, possible, reliable, trustworthy, likely. 
+ANT. Improbable, unlikely, incredible, unreliable, untrustworthy. 
+Credit. Trust, belief, faith, confidence, credence, reliance; reputation, influence, power; esteem, regard; loan, securities. 
+ANT. Insecurity; distrust; shame, disgrace, censure. 
+Credulity. Gullibility, credulousness, simplicity. 
+ANT. Skepticism, suspiciousness, incredulity, shrewdness. 
+Creed. Belief, catechism, confession, articles of faith, tenets, dogmas, doctrines. 
+ANT. Protest, abjuration, disbelief, recantation, retraction. 
+Crestfallen. Downcast, dispirited, dejected, disheartened, depressed, desponding, lowpirited, downearted. 
+ANT. Exuberant, elated, confident, inspirited. 
+Crew. Gang, set, band, horde, crowd, mob, throng. 
+ANT. Supercargo; bevy, galaxy, cream, elite. 
+Crime. Offense, misdeed, wrong, felony, sin, iniquity, misdemeanor, enormity, transgression, wickedness, delinquency. ANT. Good deed, welloing, exploit, achievement, duty, service, Benefit, benefaction, heroism. 
+Criminal, a. Immoral, iniquitous, sinful, unlawful, wicked, wrong, vile, nefarious, culpable, abominable, illegal, vicious. 
+ANT. Virtuous, moral, innocent, just, honorable, praiseworthy, lawful, legal, right, meritorious. 
+Criminate.^ Charge, accuse, arraign, impeach. 
+ANT. Acquit, absolve, extricate. 
+Cripple, v. Weaken, disable, impair, break down, cramp, curtail. 
+ANT. Renovate, strengthen, augment, liberate, ease, expedite. 
+Criterion. Standard, test, rule, touchstone, measure, canon, proof. 
+ANT. Eye, glance; intention, conjecture. 
+Critic. Judge, censor, reviewer, connoisseur ; caviller, carper ; arbiter, savant. 
+ANT. Artist, author, writer, performer, maker, poet, composer. 
+Critical. Accurate, nice, exact; decisive, crucial, determining, important; dangerous, hazardous, imminent, momentous, dubious, precarious. 
+ANT. Inexact, loose, und>iscriminating; unimportant, inconclusive; safe, sure, settled, decided, retrieved, redressed. Criticism. Censure, stricture, animadversion, review, critique. 
+ANT. Approbation, praise, approval. 
+Criticize. Examine, estimate, judge, discuss, analyze, anatomize, scan, animadvert. 
+ANT. Survey, overlook, slur, skim, slight, neglect. Crooked. Bent, curved, bowed; distorted, twisted, wry, askew, deformed, disfigured; perverse, contumacious, capricious; dishonest, unfair, unscrupulous, knavish, deceitful, tricky. 
+ANT. Straight, linear, wp~ 
+Cross. Fretful, petulant, peevish, snappish, touchy, morose, illatured, sullen, snarling, cynical, sour, out of humor, captious, crabbed, sulky. 
+ANT. Amiable, genial, goodtempered, goodatured, blithesome, charming, winsome, attractive, benign. 
+Crowd. Throng, multitude, concourse, press, horde, herd, host, rabble, mob, populace. 
+ANT. Cream, elite, bevy, constellation, galaxy; solitude, solitariness. 
+Crown, n. Diadem, coronet, garland, chaplet, wreath, laurel, bays; reward, honor, distinction, dignity; summit, crest, top, head, brow, apex. 
+ANT. Base, bottom, floor, foot, pedestal, foundation, sole; infamy, shame. 
+Crown, v. Complete, consummate, conclude, seal, achieve, accomplish. 
+ANT. Mar, spoil, frustrate, fail. 
+Crucial. Severe, trying, searching, decisive, critical, momentous, strategic. 
+ANT. Superficial, indifferent, mild, lenient, lax, unimportant. 
+Crude. Raw, immature, unripe; coarse, unrefined; undigested, unconsidered, unpolished, uncouth, awkward. 
+ANT. Mature; refined, sensitive; wellonsidered, finished, classical, highly wrought, elaborate. 
+Cruel. Inhuman, merciless, unfeeling, dire, ruthless, pitiless, relentless, savage, brutal, ferocious, bloodhirsty, sanguinary; severe, sharp, bitter, hard. 
+ANT. Gentle, mild, merciful, Jiumane, forbearing, generous. 
+Crush. Pound, crumble, demolish, overpower, squeeze, compress, bruise, shatter, raze, pulverize. 
+ANT. Consolidate, compact, amalgamate, solidify, stabilitate. 
+Culmination. Zenith, success, consummation, acme, completion, apex. 
+ANT. Failure, downfall, de~ feat, descent, decline. 
+Culpable. Blameworthy, blamable, censurable, reprehensible, faulty, wrong. 
+ANT. Innocent, blameless, laudable, praiseworthy. 
+Culprit. Criminal, delinquent, felon, malefactor, offender. 
+ANT. Hero, example, pattern, model, saint, upright man. 
+Cultivate. Till; fertilize; improve, refine, train, discipline, develop; study, pursue, investigate; nourish, foster, cherish, promote. 
+ANT. Neglect, blight, blast; uproot, eradicate, extirpate; stifle, abandon, prevent, discourage. 
+Cunning. Craft, artifice, deceit, intrigue, subtlety, chicane. 
+ANT. Candor, guilelessness, sincerity. 
+Cupidity. Longing, greed, lust; covetousness, avarice, acquisitiveness, stinginess. 
+ANT. Prodigality, liberality, generosity, extravagance. 
+Curb. Restrain, check, control, repress, bridle. 
+ANT. Indulge, emancipate, loose, release, free, liberate. 
+Cure, n. Remedy, antidote, restorative, corrective, help, specific; healing, restoration, convalescence, alleviation, renovation. 
+ANT. Complaint, contagion, disease, ailment; aggravation, confirmation; inoculation. Curiosity. Inquisitiveness, wonder, marvel, rarity, celebrity; inquiry, investigation, scrutiny, research. 
+ANT. Indifference, heedlessness, disregard, abstraction; apathy. 
+Curious. Prying, meddling, inquisitive, searching, scrutinizing; rare, singular, strange; elegant, finished. 
+ANT. Indifferent, uninterested; trite, common, usual. Current. Common, general, prevalent, present, floating, popular, ordinary, vulgar. 
+ANT. Obsolete, rejected, exploded; private, secret; confined. 
+Curse, n. Execration, malediction, anathema, denunciation; scourge, plague, torment, affliction, trouble ; imprecation, ban, oath. 
+ANT. Blessing, benediction, joy, crown; prosperity, welfare, luck, success. 
+Cursory. Hasty, superficial, desultory, careless, slight, rapid. A XT. Elaborate, searching, nte, profound. 
+Custody. Care, keeping, protection; confinement, duress, imprisonment. 
+ANT. Neglect, betrayal, exposure, desertion; liberation, discharge. 
+Custom. Usage, habit, fashion, practice, rule; form, formality, observance; patronage; duty, tax. 
+ANT. Law, regulation, command; disuse, nonbservance, desuetude. 
+Cutting. Sharp, keen; sarcastic, severe, satirical, wounding, piercing, trenchant, stinging, sardonic, cruel. 
+ANT. Mild, soothing, flattering, indulgent, consoling, gratifying. 
+Cynical. Censorious, churlish, carping, cross, peevish ; derisive, contemptuous, scornful, pessimistic, misanthropic. 
+ANT. Genial, lenient; optimistic, philanthropic. 
