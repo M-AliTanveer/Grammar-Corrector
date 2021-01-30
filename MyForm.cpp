@@ -45,7 +45,9 @@ vector<string> DSGrammarly::MyForm::algorithm(string sentence)
 	bool status = 1; //to allow search for verb and helping verb
 	string pronoun;
 	vector<string> new_sentence;
-	//check for listed helping verbs and primary verbs in sentence
+	
+//This is a very crucial for loop. please edit with caution. searches for verb. helping verb. preposition. pronoun. 
+	//also constructs invidual words from a string
 	for (i = 0, j = 0; j < sentence.size() + 1; i++, j++)
 	{
 
@@ -180,7 +182,7 @@ vector<string> DSGrammarly::MyForm::algorithm(string sentence)
 	}
 	//word[i] = '\0';
 	//new_sentence.push_back(word);
-	//simple present ignored. no edits possible/needed
+	//simple present ignored. no edits possible/needed since we work solely on the helping verb
 	//simple past
 	if ((helping != NULL && tenseteller(helping) == 4) && (helping->content != "have" && helping->content != "has" && helping->content != "been" && helping->content != "had") && (tenseteller(verb) == 2 || tenseteller(verb) == 5))
 	{
@@ -296,6 +298,7 @@ vector<string> DSGrammarly::MyForm::algorithm(string sentence)
 				new_sentence[index] = "had";
 		}
 	}
+//returning first letter as capital
 	if(new_sentence[0][0]>97&& new_sentence[0][0]<123)
 		new_sentence[0][0] = new_sentence[0][0] - 32;
 	return new_sentence;
